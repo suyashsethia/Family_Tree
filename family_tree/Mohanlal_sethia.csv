@@ -1,0 +1,16 @@
+Person 1,Relation,Person 2,Gender,Details
+Surajmal  ,Earliest Ancestor,,M,Lorem 
+Mohanlal  ,Child,Surajmal  ,M,Lorem 
+Sampat,Spouse,Mohanlal  ,F,Lorem 
+Prabha  ,Child,Mohanlal  ,F,Lorem 
+Bhikam   ,Spouse,Prabha  ,M,Lorem 
+Prasanjit  ,Child,Bhikam   ,M,Lorem 
+Priya ,Spouse,Prasanjit  ,F,Lorem 
+Abhijeet  ,Child,Bhikam   ,M,Lorem 
+Vishwajeet  ,Child,Bhikam   ,M,Lorem 
+Kamlesh  ,Child,Mohanlal  ,F,Lorem 
+Manoj  ,Spouse,Kamlesh  ,M,Lorem 
+Prakash  ,Child,Mohanlal  ,M,Lorem 
+Archana ,Spouse,Prakash  ,F,Lorem 
+Suyash  ,Child,Prakash  ,M,Lorem 
+Paragi  ,Child,Prakash  ,F,Lorem 

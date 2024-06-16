@@ -1,0 +1,175 @@
+haha,Relation,haha 2 ,Gender,Details,Person 1,Person 2
+Akhechand ji Sethia ,Earliest Ancestor,,M,Lorem ,Akhechand_ji_Sethia_,
+Laxmi devi Sethia,Spouse,Akhechand ji Sethia ,F,Lorem ,Laxmi_devi_Sethia,Akhechand_ji_Sethia_
+Dhanraj Sethia,Child,Akhechand ji Sethia ,M,Lorem ,Dhanraj_Sethia,Akhechand_ji_Sethia_
+Hukumchand Sethia,Child,Akhechand ji Sethia ,M,Lorem ,Hukumchand_Sethia,Akhechand_ji_Sethia_
+Surajmal Sethia ,Child,Akhechand ji Sethia ,M,Lorem ,Surajmal_Sethia_,Akhechand_ji_Sethia_
+Bhatu Devi Sethia ,Spouse,Hukumchand Sethia,F,Lorem ,Bhatu_Devi_Sethia_,Hukumchand_Sethia
+Bhuri Devi Sethia ,Spouse,Surajmal Sethia ,F,Lorem ,Bhuri_Devi_Sethia_,Surajmal_Sethia_
+Hulasi Devi,Child,Akhechand ji Sethia ,F,Lorem ,Hulasi_Devi,Akhechand_ji_Sethia_
+Meghraj ji Shmasukha,Spouse,Hulasi Devi,M,Lorem ,Meghraj_ji_Shmasukha,Hulasi_Devi
+Behen 1,Child,Akhechand ji Sethia ,F,Lorem ,Behen_1,Akhechand_ji_Sethia_
+Behen 2 ,Child,Akhechand ji Sethia ,F,Lorem ,Behen_2_,Akhechand_ji_Sethia_
+Tarachand Sethia ,Child,Hukumchand Sethia,M,Lorem ,Tarachand_Sethia_,Hukumchand_Sethia
+Anchi Devi,Spouse,Tarachand Sethia ,F,Lorem ,Anchi_Devi,Tarachand_Sethia_
+DeepChand Sethia,Child,Hukumchand Sethia,M,Lorem ,DeepChand_Sethia,Hukumchand_Sethia
+Ratni Devi ,Spouse,DeepChand Sethia,F,Lorem ,Ratni_Devi_,DeepChand_Sethia
+Thakarmal Sethia,Child,Hukumchand Sethia,M,Lorem ,Thakarmal_Sethia,Hukumchand_Sethia
+Sushila Devi ,Spouse,Thakarmal Sethia,F,Lorem ,Sushila_Devi_,Thakarmal_Sethia
+Nanudevi ,Child,Hukumchand Sethia,F,Lorem ,Nanudevi_,Hukumchand_Sethia
+fati Devi ,Child,Hukumchand Sethia,F,Lorem ,fati_Devi_,Hukumchand_Sethia
+Indra Devi ,Child,Hukumchand Sethia,F,Lorem ,Indra_Devi_,Hukumchand_Sethia
+LoonKaran Bafna,Spouse,Nanudevi ,M,Lorem ,LoonKaran_Bafna,Nanudevi_
+Nem chand ji Surana ,Spouse,fati Devi ,M,Lorem ,Nem_chand_ji_Surana_,fati_Devi_
+Laal chand ji surana ,Spouse,Indra Devi ,M,Lorem ,Laal_chand_ji_surana_,Indra_Devi_
+Amolak Sethia ,Child,Tarachand Sethia ,M,Lorem ,Amolak_Sethia_,Tarachand_Sethia_
+Prem Sethia,Spouse,Amolak Sethia ,F,Lorem ,Prem_Sethia,Amolak_Sethia_
+Uttam Sethia ,Child,Tarachand Sethia ,M,Lorem ,Uttam_Sethia_,Tarachand_Sethia_
+Lalita Sethia,Spouse,Uttam Sethia ,F,Lorem ,Lalita_Sethia,Uttam_Sethia_
+Anup Sethia ,Child,Tarachand Sethia ,M,Lorem ,Anup_Sethia_,Tarachand_Sethia_
+Sarita Sethia ,Spouse,Anup Sethia ,F,Lorem ,Sarita_Sethia_,Anup_Sethia_
+Sarita  ,Child,Tarachand Sethia ,F,Lorem ,Sarita__,Tarachand_Sethia_
+Kusum Banthiya,Child,DeepChand Sethia,F,Lorem ,Kusum_Banthiya,DeepChand_Sethia
+Hemant Banthiya ,Spouse,Kusum ,M,Lorem ,Hemant_Banthiya_,Kusum_
+Suman Chorariya,Child,DeepChand Sethia,F,Lorem ,Suman_Chorariya,DeepChand_Sethia
+Mahendra Chorariya,Spouse,Suman Chorariya,M,Lorem ,Mahendra_Chorariya,Suman_Chorariya
+Rakesh Sethia ,Child,DeepChand Sethia,M,Lorem ,Rakesh_Sethia_,DeepChand_Sethia
+Shail Sethia ,Spouse,Rakesh Sethia ,F,Lorem ,Shail_Sethia_,Rakesh_Sethia_
+Sangeeta ,Child,Thakarmal Sethia,F,Lorem ,Sangeeta_,Thakarmal_Sethia
+Babita ,Child,Thakarmal Sethia,F,Lorem ,Babita_,Thakarmal_Sethia
+Pankaj Sethia ,Child,Thakarmal Sethia,M,Lorem ,Pankaj_Sethia_,Thakarmal_Sethia
+Prarthana,Spouse,Pankaj Sethia ,F,Lorem ,Prarthana,Pankaj_Sethia_
+Chagni Devi Lunia ,Child,Surajmal Sethia ,F,Lorem ,Chagni_Devi_Lunia_,Surajmal_Sethia_
+Daulat Ram Lunia,Spouse,Chagni Devi Lunia ,M,Lorem ,Daulat_Ram_Lunia,Chagni_Devi_Lunia_
+Mira Lunia ,Child,Daulat Ram Lunia,F,Lorem ,Mira_Lunia_,Daulat_Ram_Lunia
+Bhikam Lunia ,Child,Daulat Ram Lunia,M,Lorem ,Bhikam_Lunia_,Daulat_Ram_Lunia
+Sarla Lunia ,Spouse,Bhikam Lunia ,F,Lorem ,Sarla_Lunia_,Bhikam_Lunia_
+Jinesh Lunia ,Child,Bhikam Lunia ,M,Lorem ,Jinesh_Lunia_,Bhikam_Lunia_
+Varsha Lunia ,Spouse,Jinesh Lunia ,F,Lorem ,Varsha_Lunia_,Jinesh_Lunia_
+Neelam Lunia ,Child,Bhikam Lunia ,F,Lorem ,Neelam_Lunia_,Bhikam_Lunia_
+Ratni Devi Baradia,Child,Surajmal Sethia ,F,Lorem ,Ratni_Devi_Baradia,Surajmal_Sethia_
+Laal Chand Baradia,Spouse,Ratni Devi Baradia,M,Lorem ,Laal_Chand_Baradia,Ratni_Devi_Baradia
+Jethmal Baradia ,Child,Laal Chand Baradia,M,Lorem ,Jethmal_Baradia_,Laal_Chand_Baradia
+Suman Baradia,Spouse,Jethmal Baradia ,F,Lorem ,Suman_Baradia,Jethmal_Baradia_
+Milap Baradia ,Child,Jethmal Baradia ,M,Lorem ,Milap_Baradia_,Jethmal_Baradia_
+Shilpa Baradia,Spouse,Milap Baradia ,F,Lorem ,Shilpa_Baradia,Milap_Baradia_
+Jaswi Baradia ,Child,Milap Baradia ,F,Lorem ,Jaswi_Baradia_,Milap_Baradia_
+Shweta Anchaliya,Child,Jethmal Baradia ,F,Lorem ,Shweta_Anchaliya,Jethmal_Baradia_
+Dev Anchaliya ,Spouse,Shweta Anchaliya,M,Lorem ,Dev_Anchaliya_,Shweta_Anchaliya
+Saroj Golcha ,Child,Laal Chand Baradia,F,Lorem ,Saroj_Golcha_,Laal_Chand_Baradia
+Jugraj Golcha ,Spouse,Saroj Golcha ,M,Lorem ,Jugraj_Golcha_,Saroj_Golcha_
+Ritu ,Child,Jugraj Golcha ,F,Lorem ,Ritu_,Jugraj_Golcha_
+Upasna ,Child,Jugraj Golcha ,F,Lorem ,Upasna_,Jugraj_Golcha_
+Paras Golcha ,Child,Jugraj Golcha ,M,Lorem ,Paras_Golcha_,Jugraj_Golcha_
+Pawan Baradia ,Child,Laal Chand Baradia,M,Lorem ,Pawan_Baradia_,Laal_Chand_Baradia
+Hemlata Baradia ,Spouse,Pawan Baradia ,F,Lorem ,Hemlata_Baradia_,Pawan_Baradia_
+Muskan baradia ,Child,Pawan Baradia ,F,Lorem ,Muskan_baradia_,Pawan_Baradia_
+Mudit Baradia,Child,Pawan Baradia ,M,Lorem ,Mudit_Baradia,Pawan_Baradia_
+Kritika Baradia ,Child,Pawan Baradia ,F,Lorem ,Kritika_Baradia_,Pawan_Baradia_
+Prem Singhi ,Child,Laal Chand Baradia,F,Lorem ,Prem_Singhi_,Laal_Chand_Baradia
+Prakash Singhi,Spouse,Prem Singhi ,M,Lorem ,Prakash_Singhi,Prem_Singhi_
+Akanksha Baid ,Child,Prakash Singhi,F,Lorem ,Akanksha_Baid_,Prakash_Singhi
+Shekhar Baid ,Spouse,Akanksha Baid ,M,Lorem ,Shekhar_Baid_,Akanksha_Baid_
+Pragya Singhi ,Child,Prakash Singhi,F,Lorem ,Pragya_Singhi_,Prakash_Singhi
+Mohanlal Sethia ,Child,Surajmal Sethia ,M,Lorem ,Mohanlal_Sethia_,Surajmal_Sethia_
+Sampat Devi Sethia ,Spouse,Mohanlal Sethia ,F,Lorem ,Sampat_Devi_Sethia_,Mohanlal_Sethia_
+Prabha Bengani ,Child,Mohanlal Sethia ,F,Lorem ,Prabha_Bengani_,Mohanlal_Sethia_
+Bhikam Chand Bengani ,Spouse,Prabha Bengani ,M,Lorem ,Bhikam_Chand_Bengani_,Prabha_Bengani_
+Prasanjit Bengani ,Child,Bhikam Chand Bengani ,M,Lorem ,Prasanjit_Bengani_,Bhikam_Chand_Bengani_
+Priya Bengani,Spouse,Prasanjit Bengani ,F,Lorem ,Priya_Bengani,Prasanjit_Bengani_
+Abhijeet Bengani ,Child,Bhikam Chand Bengani ,M,Lorem ,Abhijeet_Bengani_,Bhikam_Chand_Bengani_
+Vishwajeet Bengani ,Child,Bhikam Chand Bengani ,M,Lorem ,Vishwajeet_Bengani_,Bhikam_Chand_Bengani_
+Kamlesh Samsukha ,Child,Mohanlal Sethia ,F,Lorem ,Kamlesh_Samsukha_,Mohanlal_Sethia_
+Manoj Samsukha ,Spouse,Kamlesh Samsukha ,M,Lorem ,Manoj_Samsukha_,Kamlesh_Samsukha_
+Prakash Sethia ,Child,Mohanlal Sethia ,M,Lorem ,Prakash_Sethia_,Mohanlal_Sethia_
+Archana Jain,Spouse,Prakash Sethia ,F,Lorem ,Archana_Jain,Prakash_Sethia_
+Suyash Sethia ,Child,Prakash Sethia ,M,Lorem ,Suyash_Sethia_,Prakash_Sethia_
+Paragi Sethia ,Child,Prakash Sethia ,F,Lorem ,Paragi_Sethia_,Prakash_Sethia_
+Vijay Raj Sethia ,Child,Surajmal Sethia ,M,Lorem ,Vijay_Raj_Sethia_,Surajmal_Sethia_
+Manju Sethia ,Spouse,Vijay Raj Sethia ,F,Lorem ,Manju_Sethia_,Vijay_Raj_Sethia_
+Kanta Maloo ,Child,Vijay Raj Sethia ,F,Lorem ,Kanta_Maloo_,Vijay_Raj_Sethia_
+Manoj Maloo ,Spouse,Kanta Maloo ,M,Lorem ,Manoj_Maloo_,Kanta_Maloo_
+Sehaj Maloo ,Child,Manoj Maloo ,M,Lorem ,Sehaj_Maloo_,Manoj_Maloo_
+Kittu Maloo ,Child,Manoj Maloo ,M,Lorem ,Kittu_Maloo_,Manoj_Maloo_
+Sanju Sethia ,Child,Vijay Raj Sethia ,M,Lorem ,Sanju_Sethia_,Vijay_Raj_Sethia_
+Nisha Sethia ,Spouse,Sanju Sethia ,F,Lorem ,Nisha_Sethia_,Sanju_Sethia_
+Jaanvi Sethia ,Child,Sanju Sethia ,F,Lorem ,Jaanvi_Sethia_,Sanju_Sethia_
+Magni Devi Maloo ,Child,Surajmal Sethia ,F,Lorem ,Magni_Devi_Maloo_,Surajmal_Sethia_
+Begraj Maloo ,Spouse,Magni Devi Maloo ,M,Lorem ,Begraj_Maloo_,Magni_Devi_Maloo_
+Prem Ranka ,Child,Begraj Maloo ,F,Lorem ,Prem_Ranka_,Begraj_Maloo_
+Mahavir Ranka ,Spouse,Prem Ranka ,M,Lorem ,Mahavir_Ranka_,Prem_Ranka_
+Aarti Gaadiya ,Child,Mahavir Ranka ,F,Lorem ,Aarti_Gaadiya_,Mahavir_Ranka_
+Pranjak Gaadiya,Spouse,Aarti Gaadiya ,M,Lorem ,Pranjak_Gaadiya,Aarti_Gaadiya_
+Akaanksha ,Child,Mahavir Ranka ,F,Lorem ,Akaanksha_,Mahavir_Ranka_
+Akshay Ranka ,Child,Mahavir Ranka ,M,Lorem ,Akshay_Ranka_,Mahavir_Ranka_
+Manoj Maloo ,Child,Begraj Maloo ,M,Lorem ,Manoj_Maloo_,Begraj_Maloo_
+Pooja Maloo ,Spouse,Manoj Maloo ,F,Lorem ,Pooja_Maloo_,Manoj_Maloo_
+Manish Maloo ,Child,Manoj Maloo ,M,Lorem ,Manish_Maloo_,Manoj_Maloo_
+Karan Maloo ,Child,Manoj Maloo ,M,Lorem ,Karan_Maloo_,Manoj_Maloo_
+Khinchki Maloo,Child,Manoj Maloo ,F,Lorem ,Khinchki_Maloo,Manoj_Maloo_
+Rakesh Maloo ,Child,Begraj Maloo ,M,Lorem ,Rakesh_Maloo_,Begraj_Maloo_
+Sneha Maloo ,Spouse,Rakesh Maloo ,F,Lorem ,Sneha_Maloo_,Rakesh_Maloo_
+Diksha Maloo ,Child,Rakesh Maloo ,F,Lorem ,Diksha_Maloo_,Rakesh_Maloo_
+Mudit Maloo ,Child,Rakesh Maloo ,M,Lorem ,Mudit_Maloo_,Rakesh_Maloo_
+Choti Maloo ,Child,Rakesh Maloo ,F,Lorem ,Choti_Maloo_,Rakesh_Maloo_
+Manik Chand Sethia ,Child,Surajmal Sethia ,M,Lorem ,Manik_Chand_Sethia_,Surajmal_Sethia_
+Sushila Devi Sethia ,Spouse,Manik Chand Sethia ,F,Lorem ,Sushila_Devi_Sethia_,Manik_Chand_Sethia_
+Anju Barmecha ,Child,Manik Chand Sethia ,F,Lorem ,Anju_Barmecha_,Manik_Chand_Sethia_
+Amit Barmecha,Spouse,Anju Barmecha ,M,Lorem ,Amit_Barmecha,Anju_Barmecha_
+Naman Barmecha ,Child,Amit Barmecha,M,Lorem ,Naman_Barmecha_,Amit_Barmecha
+Jiya Barmecha ,Child,Amit Barmecha,F,Lorem ,Jiya_Barmecha_,Amit_Barmecha
+Ranjana Patawari ,Child,Manik Chand Sethia ,F,Lorem ,Ranjana_Patawari_,Manik_Chand_Sethia_
+Varun Patawari ,Spouse,Ranjana Patawari ,M,Lorem ,Varun_Patawari_,Ranjana_Patawari_
+Riya Patawari ,Child,Varun Patawari ,F,Lorem ,Riya_Patawari_,Varun_Patawari_
+Rudr Patawari ,Child,Varun Patawari ,M,Lorem ,Rudr_Patawari_,Varun_Patawari_
+Mamta Parakh,Child,Manik Chand Sethia ,F,Lorem ,Mamta_Parakh,Manik_Chand_Sethia_
+Vikram Parakh,Spouse,Mamta Parakh,M,Lorem ,Vikram_Parakh,Mamta_Parakh
+Siya Parakh,Child,Vikram Parakh,F,Lorem ,Siya_Parakh,Vikram_Parakh
+Girl Parakh,Child,Vikram Parakh,F,Lorem ,Girl_Parakh,Vikram_Parakh
+Deepak Sethia ,Child,Manik Chand Sethia ,M,Lorem ,Deepak_Sethia_,Manik_Chand_Sethia_
+Aishwarya Sethia ,Spouse,Deepak Sethia ,F,Lorem ,Aishwarya_Sethia_,Deepak_Sethia_
+Boy Sethia ,Child,Deepak Sethia ,M,Lorem ,Boy_Sethia_,Deepak_Sethia_
+RatanLal Sethia ,Child,Surajmal Sethia ,M,Lorem ,RatanLal_Sethia_,Surajmal_Sethia_
+Pushpa Sethia ,Spouse,RatanLal Sethia ,F,Lorem ,Pushpa_Sethia_,RatanLal_Sethia_
+Kavita Pugaliya ,Child,RatanLal Sethia ,F,Lorem ,Kavita_Pugaliya_,RatanLal_Sethia_
+Vikram Pugaliya ,Spouse,Kavita Pugaliya ,M,Lorem ,Vikram_Pugaliya_,Kavita_Pugaliya_
+Neerav Pugaliya,Child,Vikram Pugaliya ,M,Lorem ,Neerav_Pugaliya,Vikram_Pugaliya_
+Savita Pugaliya,Child,RatanLal Sethia ,F,Lorem ,Savita_Pugaliya,RatanLal_Sethia_
+Mohit Pugaliya,Spouse,Savita Pugaliya,M,Lorem ,Mohit_Pugaliya,Savita_Pugaliya
+Baruni Pugaliya,Child,Mohit Pugaliya,F,Lorem ,Baruni_Pugaliya,Mohit_Pugaliya
+Daisy Pugaliya,Child,Mohit Pugaliya,F,Lorem ,Daisy_Pugaliya,Mohit_Pugaliya
+Sudha Bothra ,Child,RatanLal Sethia ,F,Lorem ,Sudha_Bothra_,RatanLal_Sethia_
+Manish Bothra ,Spouse,Sudha Bothra ,M,Lorem ,Manish_Bothra_,Sudha_Bothra_
+Hitakshi Bothra ,Child,Manish Bothra ,F,Lorem ,Hitakshi_Bothra_,Manish_Bothra_
+Bhavya Bothra ,Child,Manish Bothra ,M,Lorem ,Bhavya_Bothra_,Manish_Bothra_
+Paras Sethia ,Child,RatanLal Sethia ,M,Lorem ,Paras_Sethia_,RatanLal_Sethia_
+Himanshu Sethia ,Spouse,Paras Sethia ,F,Lorem ,Himanshu_Sethia ,Paras_Sethia_
+Siya Sethia ,Child,Paras Sethia ,F,Lorem ,Siya_Sethia_,Paras_Sethia_
+Jethamal Sethia ,Child,Surajmal Sethia ,M,Lorem ,Jethamal_Sethia_,Surajmal_Sethia_
+Madhu Sethia ,Spouse,Jethamal Sethia ,F,Lorem ,Madhu_Sethia_,Jethamal_Sethia_
+Tarun Sethia ,Child,Jethamal Sethia ,M,Lorem ,Tarun_Sethia_,Jethamal_Sethia_
+Rajshree Sethia  ,Spouse,Tarun Sethia ,F,Lorem ,Rajshree_Sethia__,Tarun_Sethia_
+Tanishq Sethia,Child,Tarun Sethia ,M,Lorem ,Tanishq_Sethia,Tarun_Sethia_
+Chandni Kastiya,Child,Jethamal Sethia ,F,Lorem ,Chandni_Kastiya,Jethamal_Sethia_
+Rohit Kastiya,Spouse,Chandni Kastiya,M,Lorem ,Rohit_Kastiya,Chandni_Kastiya
+Girl Kastiya ,Child,Rohit Kastiya,F,Lorem ,Girl_Kastiya_,Rohit_Kastiya
+Miku Sethia ,Child,Jethamal Sethia ,M,Lorem ,Miku_Sethia_,Jethamal_Sethia_
+Rajmal Sethia ,Child,Surajmal Sethia ,M,Lorem ,Rajmal_Sethia_,Surajmal_Sethia_
+SnehLata Sethia ,Spouse,Rajmal Sethia ,F,Lorem ,SnehLata_Sethia_,Rajmal_Sethia_
+Ruchi Marothi,Child,Rajmal Sethia ,F,Lorem ,Ruchi_Marothi,Rajmal_Sethia_
+Jacky Marothi,Spouse,Ruchi Marothi,M,Lorem ,Jacky_Marothi,Ruchi_Marothi
+Arnav Marothi ,Child,Jacky Marothi,M,Lorem ,Arnav_Marothi_,Jacky_Marothi
+Boy Marothi ,Child,Jacky Marothi,M,Lorem ,Boy_Marothi_,Jacky_Marothi
+Ronak Sethia ,Child,Rajmal Sethia ,M,Lorem ,Ronak_Sethia_,Rajmal_Sethia_
+Himanshu Sethia ,Spouse,Ronak Sethia ,F,Lorem ,Himanshu_Sethia_,Ronak_Sethia_
+Param Sethia,Child,Ronak Sethia ,M,Lorem ,Param_Sethia,Ronak_Sethia_
+Naman Sethia ,Child,Ronak Sethia ,M,Lorem ,Naman_Sethia_,Ronak_Sethia_
+Norat Mal Sethia ,Child,Surajmal Sethia ,M,Lorem ,Norat_Mal_Sethia_,Surajmal_Sethia_
+Babita Sethia ,Spouse,Norat Mal Sethia ,F,Lorem ,Babita_Sethia_,Norat_Mal_Sethia_
+Neha Bhadani ,Child,Norat Mal Sethia ,F,Lorem ,Neha_Bhadani_,Norat_Mal_Sethia_
+Lokesh Bhadani ,Spouse,Neha Bhadani ,M,Lorem ,Lokesh_Bhadani_,Neha_Bhadani_
+Dhruvi Bhadani ,Child,Lokesh Bhadani ,F,Lorem ,Dhruvi_Bhadani_,Lokesh_Bhadani_
+Trisha Bhadani ,Child,Lokesh Bhadani ,F,Lorem ,Trisha_Bhadani_,Lokesh_Bhadani_
+Rishabh Sethia ,Child,Norat Mal Sethia ,M,Lorem ,Rishabh_Sethia_,Norat_Mal_Sethia_
+Suman Sethia ,Spouse,Rishabh Sethia ,F,Lorem ,Suman_Sethia_,Rishabh_Sethia_
+Kaashvi Sethia ,Child,Rishabh Sethia ,F,Lorem ,Kaashvi_Sethia_,Rishabh_Sethia_
