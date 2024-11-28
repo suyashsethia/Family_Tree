@@ -1,4 +1,4 @@
-haha,Relation,haha 2 ,Gender,Details,Person 1,Person 2
+name,Relation,namee ,Gender,Details,Person 1,Person 2
 Surajmal Sethia ,Earliest Ancestor,,M,Lorem ,Surajmal_Sethia_,
 Bhuri Devi Sethia ,Spouse,Surajmal Sethia ,F,Lorem ,Bhuri_Devi_Sethia_,Surajmal_Sethia_
 Chagni Devi Lunia ,Child,Surajmal Sethia ,F,Lorem ,Chagni_Devi_Lunia_,Surajmal_Sethia_
